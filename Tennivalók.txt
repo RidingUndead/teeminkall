@@ -1,0 +1,24 @@
+-Főoldal:
+    Belépés középre igazítása ./
+    Oldal leírása ./
+    Logóhoz a cím írása ./
+
+-Regisztráció:
+    Jelszó megerősítése ./
+    Csoport kilistázása  ./
+    Modal alkalmazkodása a sötét módhoz ./
+    Regisztrálás után üzenet küldése ./
+
+-About:
+    Komolyabb leírás ./
+    Képek lecserélése ./
+
+-Chat oldal:
+    Aktív tagok listázása x
+    Több felhasználóval kipróbálás 
+    A tagok üzeneteinek megkülönböztetése ./
+    Jegyzetek hozzáadása ./
+
+Továbbiak:
+    Aktív oldal kiemelése ./
+    Weboldal publikálása ./

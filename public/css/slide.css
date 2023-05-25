@@ -1,0 +1,50 @@
+[class*="tk-slide"] {
+    padding:5px;
+    display: block;
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-blue {
+    background-image: linear-gradient(to left, transparent, transparent 50%, var(--blue) 50%, var(--blue));
+    transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-green {
+    background-image: linear-gradient(to left, transparent, transparent 50%, var(--green) 50%, var(--green));
+    transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-yellow {
+    background-image: linear-gradient(to left, transparent, transparent 50%, var(--yellow) 50%, var(--yellow));
+    transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-cyan {
+    background-image: linear-gradient(to left, transparent, transparent 50%, var(--cyan) 50%, var(--cyan));
+    transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-red {
+  background-image: linear-gradient(to left, transparent, transparent 50%, var(--red) 50%, var(--red));
+  transition: all ease-in-out 0.3s;
+  }
+
+  .tk-slide-blue:hover, .tk-slide-green:hover, .tk-slide-yellow:hover, .tk-slide-cyan:hover, .tk-slide-red:hover {
+    background-position: 0 0;
+    transition: all 0.3s;
+  }
+
+  .tk-slide-blue:hover{
+    color:var(--foreground);
+  }
+
+  .tk-slide-red:hover{
+  color:var(--foreground);
+  }
+  .tk-slide-green {
+    background-color: #00cc00;
+    border: none;
+    border-radius: 20px;
+  }

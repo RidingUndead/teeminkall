@@ -1,0 +1,68 @@
+
+.tk-form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+  }
+  
+  .tk-form{
+    width: auto;
+  }
+  
+  .tk-form [class*="tk-rounded-"]{
+    width: 50%;
+    border: 1px solid var(--foreground);
+    outline: none;
+  }
+
+  input {
+    transition: all 0.2s ease-in-out;
+    background-color: #fff;
+    border: 1px solid var(--foreground);
+    padding: 10px;
+    border-radius: 25px;
+    outline: none;
+  }
+  
+  input:focus {
+    background-color: #dedede;
+    border: 1px solid var(--primary);
+  }
+  
+  .btn {
+    font-size: 1.2rem;
+    padding: 5px 15px;
+    border-radius: 25px;
+    transition: background-color 0.2s ease-in-out;
+    color: var(--foreground);
+    border: none;
+  }
+
+  .w3-button {
+    color: var(--secondary);
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+    margin-top: 0;
+    transition: all 0.2s ease-in-out;
+  }
+  
+textarea{
+    resize: none;
+}
+
+
+@media (max-width: 769px) {
+
+  .tk-form{
+    flex-direction: column;
+  }
+
+  .tk-form [class*="tk-rounded"]{
+    border-radius: 25px;
+    margin-top: 5px;
+    width: 100%;
+  }
+}

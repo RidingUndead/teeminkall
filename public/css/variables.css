@@ -1,0 +1,30 @@
+:root {
+    --foreground: #222;
+    --background: #fff;
+    --primary: #00d2ff;
+    --secondary: #999;
+    --sec-background: #ddd;
+    --green: #00ff6b;
+    --yellow: #ffdd00;
+    --cyan: #00d2ff;
+    --blue: #4f7dff;
+    --red: #ff4136;
+
+    --small: 0.8rem;
+    --medium: 1rem;
+    --large: 1.2rem;
+    --extra-large: 1.5rem;
+  }
+  
+  .dark {
+    --foreground: #eee;
+    --background: #222;
+    --primary: #00d2ff;
+    --secondary: #1d1f20;
+    --sec-background: #333;
+    --green: #00ff6b;
+    --yellow: #ffdd00;
+    --cyan: #00d2ff;
+    --blue: #4f7dff;
+    --red: #ff4136;
+  }
