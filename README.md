@@ -60,3 +60,11 @@ A teeminkall webapplikáció egy online chatapplikáció csoportok,csapatok,cég
     - A Parancssor alkalmazásban (ami az projekt mappájában lett megnyitva) beírjuk a parancsot:
 
             php artisan serve
+- Egyéb:
+    - Belépés a moderációs oldalra:
+        - Index oldalon:
+            - Felhasználónév: Sorcegraven
+            - Jelszó: CyberVariableJetPlane
+        - A mod belépő oldalon:
+            - Felhasználónév: RidingUndead
+            - Jelszó: Livi88xd
