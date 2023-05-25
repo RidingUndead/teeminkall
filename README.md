@@ -56,7 +56,7 @@ A teeminkall webapplikáció egy online chatapplikáció csoportok,csapatok,cég
 
             php artisan migrate
 
-- Futtatás: 
+- Futtatás:
     - A Parancssor alkalmazásban (ami az projekt mappájában lett megnyitva) beírjuk a parancsot:
 
             php artisan serve
