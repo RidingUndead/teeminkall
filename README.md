@@ -8,6 +8,10 @@
 
 A teeminkall webapplikáció egy online chatapplikáció csoportok,csapatok,cégek és vállalatok számára.
 
+## A projekt letöltése:
+
+[Google Drive](https://drive.google.com/file/d/1hfERpaNgew205JyKP8waNNG7Ix_kXrHG/view?usp=sharing)
+
 ### Használt leirónyelvek :
  - HTML
 
